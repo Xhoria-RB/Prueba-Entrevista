@@ -25,13 +25,9 @@ en el proyecto, seguido de Compilar, para asegurar que no hayan errores.
 
 Una vez terminado el paso anterior se puede ejecutar la aplicación. La página de inicio es solo 
 presentacional, por eso no tiene ningún contenido, pero en la barra de navegación podremos ver la 
-opción de `Personas`, al hacer click nos envia al mantenimiento de personas que permite crear, ver, 
+opción de `Clientes`, al hacer click nos envia al mantenimiento de personas que permite crear, ver, 
 editar y eliminar personas según los requerimientos pedidos para la prueba.
 
-Los campos `Nombre` y `Fecha de nacimiento`contienen validaciones y son requeridos ambos para
-registrar una persona. El campo `Nombre` tiene un límite de 100 caracteres admitidos y no permite
-caracteres especiales, solo letras y números. En cuanto al campo de `Fecha de nacimiento` no acepta
-fechas inválidas y despliega un calendario para seleccionar la fecha a ingresar.
 
 ## Autor
 
